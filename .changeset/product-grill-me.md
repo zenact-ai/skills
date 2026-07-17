@@ -2,4 +2,4 @@
 "mattpocock-skills": minor
 ---
 
-Add **`product-grill-me`**, a user-invoked skill that takes one concrete product scenario, traces its technical implementation end to end, and grills each unresolved choice with the relevant product, technical, prioritisation, and existing-code-pattern context.
+Add **`product-grill-me`**, a user-invoked skill that frames every decision in its product scenario, asks the user only about choices with consequences outside the codebase, and closes with a walkthrough plus a vetoable log of implementation calls.
