@@ -1,0 +1,5 @@
+interface:
+  display_name: "Product Grill Me"
+  short_description: "Frame technical choices in product scenarios"
+policy:
+  allow_implicit_invocation: false
