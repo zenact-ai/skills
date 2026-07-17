@@ -1,0 +1,5 @@
+interface:
+  display_name: "Product Grill Me"
+  short_description: "Grill choices with product and code context"
+policy:
+  allow_implicit_invocation: false
